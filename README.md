@@ -1,1 +1,0 @@
-# Gerador-sensibilidade

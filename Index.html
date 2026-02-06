@@ -1,0 +1,82 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Gerador de Sensibilidade FF</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      color: #fff;
+    }
+    .card {
+      background: rgba(0,0,0,0.6);
+      padding: 25px;
+      border-radius: 20px;
+      width: 320px;
+      box-shadow: 0 0 25px rgba(0,255,255,0.3);
+      text-align: center;
+    }
+    h1 {
+      font-size: 22px;
+      margin-bottom: 15px;
+    }
+    button {
+      background: linear-gradient(135deg, #00c6ff, #0072ff);
+      border: none;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 30px;
+      font-size: 16px;
+      cursor: pointer;
+      margin-top: 15px;
+      transition: 0.3s;
+    }
+    button:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 15px #00c6ff;
+    }
+    .sens {
+      margin-top: 15px;
+      text-align: left;
+      font-size: 15px;
+    }
+    .sens span {
+      float: right;
+      color: #00eaff;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>🎯 Sensibilidade Free Fire</h1>
+    <p>Clique para gerar uma sensibilidade boa</p>
+    <button onclick="gerar()">GERAR</button>
+    <div class="sens" id="resultado"></div>
+  </div>  <script>
+    function rand(min, max) {
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    function gerar() {
+      const geral = rand(85, 100);
+      const redDot = rand(80, 95);
+      const mira2x = rand(70, 90);
+      const mira4x = rand(60, 85);
+      const awm = rand(40, 65);
+      const freeLook = rand(60, 90);
+
+      document.getElementById("resultado").innerHTML = `
+        <div>Geral <span>${geral}</span></div>
+        <div>Red Dot <span>${redDot}</span></div>
+        <div>Mira 2x <span>${mira2x}</span></div>
+        <div>Mira 4x <span>${mira4x}</span></div>
+        <div>AWM <span>${awm}</span></div>
+        <div>Olhadinha <span>${freeLook}</span></div>
+      `;
+    }
+  </script></body>
+      </html>
