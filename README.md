@@ -1,14 +1,19 @@
-🎯 O MELHOR GERADOR DE SENSIBILIDADE PARA FREE FIRE 🎯
-Você já cansou de errar tiro, perder capa e sentir que sua sensibilidade nunca está certa? 😤
-Então chegou no lugar certo. Este é o melhor gerador de sensibilidade para Free Fire, criado para quem quer subir capa com mais facilidade, melhorar a mira e dominar as partidas como um verdadeiro pro 🔥
-Nosso gerador foi pensado para todos os tipos de jogadores, seja você iniciante ou experiente. Ele gera sensibilidades equilibradas, rápidas e estáveis, ajudando no controle do recoil, na precisão dos tiros e no famoso HS 🎯💥
-✨ Funciona em qualquer celular
-✨ Ideal para subir capa
-✨ Sensibilidade personalizada
-✨ Simples, rápido e gratuito
-✨ Sem cadastro e sem complicação
-Tudo isso em um site leve, bonito e fácil de usar. Em poucos segundos, você gera sua sensibilidade perfeita e já pode testar direto no jogo 🕹️🔥
-👉 Acesse agora o melhor gerador de sensibilidade para Free Fire:
-🌐 https://minigames-dev.github.io/Gerador-sensibilidade/�
-Não fique para trás. Ajuste sua sensibilidade, melhore sua mira e vire o terror do Free Fire 💀🔥
-Quem usa, sente a diferença.
+🎯 Gerador de Sensibilidade para Free Fire
+O Gerador de Sensibilidade para Free Fire foi criado para ajudar jogadores a encontrarem a sensibilidade ideal de forma simples, rápida e eficiente.
+Com ele, você pode melhorar sua mira, facilitar o controle do recoil e aumentar suas chances de subir capa nas partidas.
+O site gera configurações equilibradas, pensadas para funcionar bem em diferentes tipos de celulares e estilos de jogo, sendo útil tanto para iniciantes quanto para jogadores mais experientes.
+✨ Principais Recursos
+Geração automática de sensibilidade
+Configurações focadas em precisão e controle
+Interface simples e fácil de usar
+Funciona diretamente no navegador
+Totalmente gratuito e sem cadastro
+🚀 Como Usar
+Acesse o site
+Gere sua sensibilidade
+Aplique os valores no Free Fire
+Teste e ajuste conforme seu estilo de jogo
+🌐 Acesse o Projeto
+👉 https://minigames-dev.github.io/Gerador-sensibilidade/�
+📌 Observação
+Os valores gerados servem como base. Pequenos ajustes podem ser necessários de acordo com o aparelho e a preferência do jogador.
